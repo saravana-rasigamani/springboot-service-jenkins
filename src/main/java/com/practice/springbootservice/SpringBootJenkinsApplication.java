@@ -18,6 +18,6 @@ public class SpringBootJenkinsApplication {
 	
 	@PostConstruct
 	public void postConstruct() {
-		logger.info("---- Spring boot Jenkins Application started ----");
+		logger.info("---- Spring boot Application started ----");
 	}
 }
